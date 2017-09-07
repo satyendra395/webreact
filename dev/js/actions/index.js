@@ -1,0 +1,3 @@
+export const JOB_LIST_SUCCESS = 'JOB_LIST_SUCCESS';
+export const JOB_EDIT_SUCCESS = 'JOB_EDIT_SUCCESS';
+
